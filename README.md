@@ -13,3 +13,9 @@
 - Open `JavaStarterApplication.java` in `src/main/java/com/octo/JavaStarter`
 - Click on the green "Play" button
 - Server has now started!
+
+## Add, modify, remove and run tests
+
+- Open `SayHelloServiceTest` in `test/java/com/octo/JavaStarter`
+- Click on the green "Play" button
+- Tests are running (result should be green)
